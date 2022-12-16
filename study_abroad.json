@@ -17,6 +17,15 @@
         "anchor": "bottom"
     }
 }, {
+    "points": [23.313107, 96.305310, 41.450041,-102.465787],
+    "total": 544900,
+    "from": "Myanmar",
+    "curvature": 0.20,
+    "label": {
+        "position": "0%",
+        "anchor": "bottom"
+    }
+}, {
     "points": [27.916764, -109.417754, 41.450041,-102.465787],
     "total": 156052,
     "from": "Mexico",
