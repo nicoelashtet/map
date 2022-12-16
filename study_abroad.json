@@ -2,9 +2,9 @@
     "points": [31.802893, 112.817956, 41.450041,-102.465787],
     "total": 120000,
     "from": "China",
-    "curvature": 0.1,
+    "curvature": 0.5,
     "label": {
-        "position": "30%",
+        "position": "0%",
         "anchor": "bottom"
     }
 }, {
